@@ -8,7 +8,7 @@ const Header = props => {
             <header id="main-header">
                 <div className="row no-gutters">
                     <div className="col-lg-4 col-md-5">
-                        <img className="imgPortfiolio" src={img} alt="portfolio img" />
+                        <img className="imgPortfiolio" src={img} alt="Sourabh Bankey - UI Developer" />
                     </div>
                     <div className="col-lg-8 col-md-7">
                         <div className="d-flex flex-column">
